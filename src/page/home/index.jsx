@@ -28,6 +28,7 @@ class Home extends Component {
                     我是测试less
                 </div>
                 <Button onClick={this.add}>增加</Button>
+                <Button>减少</Button>
             </section>
         );
     }
